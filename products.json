@@ -1,0 +1,1939 @@
+{
+	"cotton": {
+		"title": "colourscope",
+		"subtitle": "Soft Custom Logo Carpet Rugs - in 300+ Colours",
+		"seo": {
+			"title": "Custom Logo Rugs For Businesses | Rug With Company Logo - Specialist Logo Mats",
+			"menutitle": "Logo Rug Mat",
+			"description": "We offer stunning carpet custom logo rugs in the UK. Choose from our variety of designs and colours and curate your logo rug mat for your business. Contact us for details.",
+			"canonical": "logo-rug-mats",
+			"seoinclude": "colourscope"
+		},
+		"description": "<p>A soft, rug material mat available in over 300 backing colours - we're able to print full colour, high-fidelity designs directly onto our Colourscope logo mats. The resolution of our printing is so good that we can even print your custom photographs onto a mat for you.</p><p>These floor mats are perfect for the reception or welcome area of a business or institution.</p><p>Colourscope logo rugs are super easy to clean too - vacuum, steam clean or even throw them into a washing machine at 30ºc (provided the mat fits.)</p>",
+		"settings": {
+			"backing-options": true
+		},
+		"img": ["img/products/colourscope-mat.jpg",
+				"img/products/colourscope/colourscope1.jpg",
+				"img/products/colourscope/colourscope2.jpg",
+				"img/products/colourscope/colourscope3.jpg",
+				"img/products/colourscope/colourscope4.jpg",
+				"img/products/colourscope/colourscope5.jpg",
+				"img/products/colourscope/colourscope6.jpg",
+				"img/products/colourscope/colourscope7.jpg",
+				"img/products/colourscope/colourscope8.jpg",
+				"img/products/colourscope/colourscope9.jpg"],
+		"features": {
+			"area": "indoors",
+			"print": "photo"
+		},
+		"bullets": [
+			{
+				"icon": "fa-eye",
+				"point": "Free Preview Visual"
+			},
+			{
+				"icon": "fa-cut",
+				"point": "Made to Measure Sizing"
+			},
+			{
+				"icon": "fa-tire",
+				"point": "High-Quality Rubber Backing"
+			},
+			{
+				"icon": "fa-washer",
+				"point": "Machine Washable"
+			},
+			{
+				"icon": "fa-truck",
+				"point": "Fast Delivery"
+			},
+			{
+				"icon": "fa-flag",
+				"point": "UK Made"
+			},
+			{
+				"icon": "fa-ballot-check",
+				"point": "Choice of Backing Finish"
+			}
+		],
+		"specs": [
+			{
+				"key": "Availability",
+				"value": "7-10 working days of visual approval"
+			},
+			{
+				"key": "Mat Surface",
+				"value": "Heavy duty high twist nylon"
+			},
+			{
+				"key": "Mat Backing",
+				"value": "Nitrile Rubber"
+			},
+			{
+				"key": "Backing Finish",
+				"value": "Smooth or Gripper"
+			},
+			{
+				"key": "Total Height",
+				"value": "8mm approx"
+			},
+			{
+				"key": "Size Tolerance",
+				"value": "±2%"
+			},
+			{
+				"key": "Custom Sizes",
+				"value": "Yes"
+			},
+			{
+				"key": "Foot Traffic",
+				"value": "Medium industrial/light-heavy domestic"
+			},
+			{
+				"key": "Water Retention",
+				"value": "Very Good"
+			},
+			{
+				"key": "Dry Dirt Pick-Up",
+				"value": "Very Good"
+			},
+			{
+				"key": "Machine Washable",
+				"value": "Yes"
+			},
+			{
+				"key": "Tumble Dry",
+				"value": "Yes (warm heat)"
+			},
+			{
+				"key": "Flammability",
+				"value": "BS EN 13501: Certified as Class Cfl-s1"
+			}
+		],
+		"sizing": [
+			"standard", "custom", "matwell"
+		],
+		"sizes": [
+				"60 x 85cm (approx 2’ x 3’)", 
+				"75 x 85cm ( approx 2’6” x 3’)",
+				"75 x 115cm (approx 2'6\" x 4')",
+				"85 x 85cm (approx 3’ x 3’)",
+				"85 x 115cm (approx 3’ x 4’)",
+				"85 x 120cm (approx 3’ x 4’)",
+				"85 x 150cm (approx 3’ x 5’)",
+				"85 x 200cm (approx 3’ x 6’6”)",
+				"85 x 240cm (approx 3’ x 8’)",
+				"85 x 250cm (approx 3' x 8'3\")",
+				"85 x 300cm (approx 3’ x 10’)",
+				"85 x 400cm (approx 3’ x 13’)",
+				"85 x 500cm (approx 3’ x 16’6”)",
+				"85 x 600cm (approx 3’ x 19’6”)",
+				"115 x 115cm (approx 4’ x 4’)",
+				"115 x 150cm (approx 4’ x 5’)",
+				"115 x 180cm (approx 4’ x 6’)",
+				"115 x 200cm (approx 4’ x 6’6”)",
+				"115 x 240cm (approx 4’ x 8’)",
+				"115 x 250cm (approx 4' x 8'3\")",
+				"115 x 300cm (approx 4’ x 10’)",
+				"115 x 360cm (approx 4’ x 12’)",
+				"115 x 400cm (approx 4’ x 13’)",
+				"115 x 500cm (approx 4’ x 16’6”)",
+				"115 x 600cm (approx 4’ x 19’6”)",
+				"150 x 150cm (approx 5’ x 5’)",
+				"150 x 180cm (approx 5’ x 6’)",
+				"150 x 200cm (approx 5’ x 6’6”)",
+				"150 x 240cm (approx 5’ x 8’)",
+				"150 x 300cm (approx 5’ x 10’)",
+				"150 x 400cm (approx 5’ x 13’)",
+				"150 x 500cm (approx 5’ x 16’6”)",
+				"150 x 600cm (approx 5’ x 20’)",
+				"200 x 200cm (approx 6’ x 6’)",
+				"200 x 300cm (approx 6’ x 10’)"
+			],
+		"colours": [
+			{
+				"name": "100",
+				"colour": "Burgundy",
+				"swatch": "img/swatches/cotton/colours/100 Burgundy.jpg"
+			},
+			{
+				"name": "101",
+				"colour": "Charcoal",
+				"swatch": "img/swatches/cotton/colours/101 Charcoal.jpg"
+			},
+			{
+				"name": "102",
+				"colour": "Brown",
+				"swatch": "img/swatches/cotton/colours/102 Brown.jpg"
+			},
+			{
+				"name": "103",
+				"colour": "Dark Gold",
+				"swatch": "img/swatches/cotton/colours/103 Dark Gold.jpg"
+			},
+			{
+				"name": "104",
+				"colour": "Turquoise",
+				"swatch": "img/swatches/cotton/colours/104 Turquoise.jpg"
+			},
+			{
+				"name": "105",
+				"colour": "Purple",
+				"swatch": "img/swatches/cotton/colours/105 Purple.jpg"
+			},
+			{
+				"name": "106",
+				"colour": "Light Blue",
+				"swatch": "img/swatches/cotton/colours/106 Light Blue.jpg"
+			},
+			{
+				"name": "107",
+				"colour": "Royal Blue",
+				"swatch": "img/swatches/cotton/colours/107 Royal Blue.jpg"
+			},
+			{
+				"name": "108",
+				"colour": "Black",
+				"swatch": "img/swatches/cotton/colours/108 Black.jpg"
+			},
+			{
+				"name": "109",
+				"colour": "Gold",
+				"swatch": "img/swatches/cotton/colours/109 Gold.jpg"
+			},
+			{
+				"name": "110",
+				"colour": "Emerald Green",
+				"swatch": "img/swatches/cotton/colours/110 Emerald Green.jpg"
+			},
+			{
+				"name": "111",
+				"colour": "Chocolate",
+				"swatch": "img/swatches/cotton/colours/111 Chocolate.jpg"
+			},
+			{
+				"name": "112",
+				"colour": "Red",
+				"swatch": "img/swatches/cotton/colours/112 Red.jpg"
+			},
+			{
+				"name": "114",
+				"colour": "Cranberry",
+				"swatch": "img/swatches/cotton/colours/114 Cranberry.jpg"
+			},
+			{
+				"name": "115",
+				"colour": "Grey",
+				"swatch": "img/swatches/cotton/colours/115 Grey.jpg"
+			},
+			{
+				"name": "116",
+				"colour": "Silver",
+				"swatch": "img/swatches/cotton/colours/116 Silver.jpg"
+			},
+			{
+				"name": "117",
+				"colour": "Forest Green",
+				"swatch": "img/swatches/cotton/colours/117 Forest Green.jpg"
+			},
+			{
+				"name": "118",
+				"colour": "Navy",
+				"swatch": "img/swatches/cotton/colours/118 Navy.jpg"
+			},
+			{
+				"name": "119",
+				"colour": "Rose",
+				"swatch": "img/swatches/cotton/colours/119 Rose.jpg"
+			},
+			{
+				"name": "120",
+				"colour": "Sandalwood",
+				"swatch": "img/swatches/cotton/colours/120 Sandalwood.jpg"
+			},
+			{
+				"name": "121",
+				"colour": "Steel Blue",
+				"swatch": "img/swatches/cotton/colours/121 Steel Blue.jpg"
+			},
+			{
+				"name": "123",
+				"colour": "Suede",
+				"swatch": "img/swatches/cotton/colours/123 Suede.jpg"
+			},
+			{
+				"name": "126",
+				"colour": "Clay",
+				"swatch": "img/swatches/cotton/colours/126 Clay.jpg"
+			},
+			{
+				"name": "127",
+				"colour": "Orange",
+				"swatch": "img/swatches/cotton/colours/127 Orange.jpg"
+			},
+			{
+				"name": "128",
+				"colour": "Yellow",
+				"swatch": "img/swatches/cotton/colours/128 Yellow.jpg"
+			},
+			{
+				"name": "130",
+				"colour": "Aquamarine",
+				"swatch": "img/swatches/cotton/colours/130 Aquamarine.jpg"
+			},
+			{
+				"name": "140",
+				"colour": "White",
+				"swatch": "img/swatches/cotton/colours/140 White.jpg"
+			},
+			{
+				"name": "306",
+				"colour": "Sky Blue",
+				"swatch": "img/swatches/cotton/colours/306 Sky Blue.jpg"
+			},
+			{
+				"name": "308",
+				"colour": "Mid Grey",
+				"swatch": "img/swatches/cotton/colours/308 Mid Grey.jpg"
+			},
+			{
+				"name": "311",
+				"colour": "Bright Red",
+				"swatch": "img/swatches/cotton/colours/311 Bright Red.jpg"
+			},
+			{
+				"name": "335",
+				"colour": "Hot Pink",
+				"swatch": "img/swatches/cotton/colours/335 Hot Pink.jpg"
+			},
+			{
+				"name": "340",
+				"colour": "Green",
+				"swatch": "img/swatches/cotton/colours/340 Green.jpg"
+			},
+			{
+				"name": "363",
+				"colour": "Bronze",
+				"swatch": "img/swatches/cotton/colours/363 Bronze.jpg"
+			},
+			{
+				"name": "366",
+				"colour": "Bright Green",
+				"swatch": "img/swatches/cotton/colours/366 Bright Green.jpg"
+			},
+			{
+				"name": "369",
+				"colour": "Airforce Blue",
+				"swatch": "img/swatches/cotton/colours/369 Airforce Blue.jpg"
+			},
+			{
+				"name": "381",
+				"colour": "Peach",
+				"swatch": "img/swatches/cotton/colours/381 Peach.jpg"
+			},
+			{
+				"name": "382",
+				"colour": "Dark Beige",
+				"swatch": "img/swatches/cotton/colours/382 Dark Beige.jpg"
+			},
+			{
+				"name": "383",
+				"colour": "Light Brown",
+				"swatch": "img/swatches/cotton/colours/383 Light Brown.jpg"
+			},
+			{
+				"name": "384",
+				"colour": "Dark Brown",
+				"swatch": "img/swatches/cotton/colours/384 Dark Brown.jpg"
+			},
+			{
+				"name": "385",
+				"colour": "Moss Green",
+				"swatch": "img/swatches/cotton/colours/385 Moss Green.jpg"
+			},
+			{
+				"name": "386",
+				"colour": "Dark Green",
+				"swatch": "img/swatches/cotton/colours/386 Dark Green.jpg"
+			},
+			{
+				"name": "387",
+				"colour": "Light Grey",
+				"swatch": "img/swatches/cotton/colours/387 Light Grey.jpg"
+			},
+			{
+				"name": "388",
+				"colour": "Metal Grey",
+				"swatch": "img/swatches/cotton/colours/388 Metal Grey.jpg"
+			},
+			{
+				"name": "389",
+				"colour": "Pale Pink",
+				"swatch": "img/swatches/cotton/colours/389 Pale Pink.jpg"
+			},
+			{
+				"name": "390",
+				"colour": "Cherry Red",
+				"swatch": "img/swatches/cotton/colours/390 Cherry Red.jpg"
+			},
+			{
+				"name": "391",
+				"colour": "391Plum",
+				"swatch": "img/swatches/cotton/colours/391Plum.jpg"
+			},
+			{
+				"name": "392",
+				"colour": "Fuschia",
+				"swatch": "img/swatches/cotton/colours/392 Fuschia.jpg"
+			},
+			{
+				"name": "393",
+				"colour": "Voilet",
+				"swatch": "img/swatches/cotton/colours/393 Voilet.jpg"
+			},
+			{
+				"name": "394",
+				"colour": "Champagne",
+				"swatch": "img/swatches/cotton/colours/394 Champagne.jpg"
+			},
+			{
+				"name": "395",
+				"colour": "Pale Yellow",
+				"swatch": "img/swatches/cotton/colours/395 Pale Yellow.jpg"
+			},
+			{
+				"name": "396",
+				"colour": "Bright Orange",
+				"swatch": "img/swatches/cotton/colours/396 Bright Orange.jpg"
+			},
+			{
+				"name": "397",
+				"colour": "Wine Red",
+				"swatch": "img/swatches/cotton/colours/397 Wine Red.jpg"
+			},
+			{
+				"name": "398",
+				"colour": "Bright Blue",
+				"swatch": "img/swatches/cotton/colours/398 Bright Blue.jpg"
+			},
+			{
+				"name": "399",
+				"colour": "Grass Green",
+				"swatch": "img/swatches/cotton/colours/399 Grass Green.jpg"
+			},
+			{
+				"name": "400",
+				"colour": "Cloud Grey",
+				"swatch": "img/swatches/cotton/colours/400 Cloud Grey.jpg"
+			},
+			{
+				"name": "401",
+				"colour": "Cookie Brown",
+				"swatch": "img/swatches/cotton/colours/401 Cookie Brown.jpg"
+			},
+			{
+				"name": "402",
+				"colour": "Sea Green",
+				"swatch": "img/swatches/cotton/colours/402 Sea Green.jpg"
+			},
+			{
+				"name": "403",
+				"colour": "Lime Green",
+				"swatch": "img/swatches/cotton/colours/403 Lime Green.jpg"
+			},
+			{
+				"name": "404",
+				"colour": "True Blue",
+				"swatch": "img/swatches/cotton/colours/404 True Blue.jpg"
+			},
+			{
+				"name": "405",
+				"colour": "Icy Grey",
+				"swatch": "img/swatches/cotton/colours/405 Icy Grey.jpg"
+			},
+			{
+				"name": "406",
+				"colour": "Tropical Blue",
+				"swatch": "img/swatches/cotton/colours/406 Tropical Blue.jpg"
+			},
+			{
+				"name": "407",
+				"colour": "Cranberry",
+				"swatch": "img/swatches/cotton/colours/407 Cranberry.jpg"
+			},
+			{
+				"name": "408",
+				"colour": "Mid Blue",
+				"swatch": "img/swatches/cotton/colours/408 Mid Blue.jpg"
+			},
+			{
+				"name": "409",
+				"colour": "Crimson Red",
+				"swatch": "img/swatches/cotton/colours/409 Crimson Red.jpg"
+			},
+			{
+				"name": "411",
+				"colour": "Tarnished Grey",
+				"swatch": "img/swatches/cotton/colours/411 Tarnished Grey.jpg"
+			},
+			{
+				"name": "412",
+				"colour": "Apple Green",
+				"swatch": "img/swatches/cotton/colours/412 Apple Green.jpg"
+			},
+			{
+				"name": "413",
+				"colour": "Parmavoilet",
+				"swatch": "img/swatches/cotton/colours/413 Parmavoilet.jpg"
+			},
+			{
+				"name": "414",
+				"colour": "Baby Pink",
+				"swatch": "img/swatches/cotton/colours/414 Baby Pink.jpg"
+			},
+
+			{
+				"name": "415",
+				"colour": "Scarlet",
+				"swatch": "img/swatches/cotton/colours/415 Scarlet.jpg"
+			},
+			
+			{
+				"name": "416",
+				"colour": "Lemon Yellow",
+				"swatch": "img/swatches/cotton/colours/416 Lemon Yellow.jpg"
+			},
+			{
+				"name": "418",
+				"colour": "Dessert",
+				"swatch": "img/swatches/cotton/colours/418 Dessert.jpg"
+			},
+			{
+				"name": "417",
+				"colour": "Baby Blue",
+				"swatch": "img/swatches/cotton/colours/417 Baby Blue.jpg"
+			},
+			{
+				"name": "419",
+				"colour": "Pebble Grey",
+				"swatch": "img/swatches/cotton/colours/419 Pebble Grey.jpg"
+			},
+			{
+				"name": "420",
+				"colour": "Peacock",
+				"swatch": "img/swatches/cotton/colours/420 Peacock.jpg"
+			},
+			{
+				"name": "421",
+				"colour": "Denim",
+				"swatch": "img/swatches/cotton/colours/421 Denim.jpg"
+			},
+			{
+				"name": "422",
+				"colour": "Arctic",
+				"swatch": "img/swatches/cotton/colours/422 Arctic.jpg"
+			},
+			{
+				"name": "423",
+				"colour": "Bermuda Blue",
+				"swatch": "img/swatches/cotton/colours/423 Bermuda Blue.jpg"
+			},
+			{
+				"name": "426",
+				"colour": "Ocean",
+				"swatch": "img/swatches/cotton/colours/426 Ocean.jpg"
+			},
+			{
+				"name": "427",
+				"colour": "Cornflower",
+				"swatch": "img/swatches/cotton/colours/427 Cornflower.jpg"
+			},
+			{
+				"name": "428",
+				"colour": "Azure",
+				"swatch": "img/swatches/cotton/colours/428 Azure.jpg"
+			},
+			{
+				"name": "429",
+				"colour": "Space Blue",
+				"swatch": "img/swatches/cotton/colours/429 Space Blue.jpg"
+			},
+			{
+				"name": "430",
+				"colour": "Pear",
+				"swatch": "img/swatches/cotton/colours/430 Pear.jpg"
+			},
+			{
+				"name": "431",
+				"colour": "Green Tea",
+				"swatch": "img/swatches/cotton/colours/431 Green Tea.jpg"
+			},
+			{
+				"name": "432",
+				"colour": "Pine",
+				"swatch": "img/swatches/cotton/colours/432 Pine.jpg"
+			},
+			{
+				"name": "433",
+				"colour": "Avocado",
+				"swatch": "img/swatches/cotton/colours/433 Avocado.jpg"
+			},
+			{
+				"name": "434",
+				"colour": "Spring",
+				"swatch": "img/swatches/cotton/colours/434 Spring.jpg"
+			},
+			{
+				"name": "435",
+				"colour": "Seaweed",
+				"swatch": "img/swatches/cotton/colours/435 Seaweed.jpg"
+			},
+			{
+				"name": "436",
+				"colour": "Metallic",
+				"swatch": "img/swatches/cotton/colours/436 Metallic.jpg"
+			},
+			{
+				"name": "437",
+				"colour": "Kiwi",
+				"swatch": "img/swatches/cotton/colours/437 Kiwi.jpg"
+			},
+			{
+				"name": "439",
+				"colour": "Rust",
+				"swatch": "img/swatches/cotton/colours/439 Rust.jpg"
+			},
+			{
+				"name": "440",
+				"colour": "Crimson",
+				"swatch": "img/swatches/cotton/colours/440 Crimson.jpg"
+			},
+			{
+				"name": "442",
+				"colour": "Grape",
+				"swatch": "img/swatches/cotton/colours/442 Grape.jpg"
+			},
+			{
+				"name": "443",
+				"colour": "Postal",
+				"swatch": "img/swatches/cotton/colours/443 Postal.jpg"
+			},
+			{
+				"name": "444",
+				"colour": "Black Forest",
+				"swatch": "img/swatches/cotton/colours/444 Black Forest.jpg"
+			},
+			{
+				"name": "445",
+				"colour": "Pearl",
+				"swatch": "img/swatches/cotton/colours/445 Pearl.jpg"
+			},
+			{
+				"name": "446",
+				"colour": "Dove",
+				"swatch": "img/swatches/cotton/colours/446 Dove.jpg"
+			},
+			{
+				"name": "447",
+				"colour": "Oat",
+				"swatch": "img/swatches/cotton/colours/447 Oat.jpg"
+			},
+			{
+				"name": "448",
+				"colour": "Fossil",
+				"swatch": "img/swatches/cotton/colours/448 Fossil.jpg"
+			},
+			{
+				"name": "449",
+				"colour": "Thunder",
+				"swatch": "img/swatches/cotton/colours/449 Thunder.jpg"
+			},
+			{
+				"name": "450",
+				"colour": "Smokey",
+				"swatch": "img/swatches/cotton/colours/450 Smokey.jpg"
+			},
+			{
+				"name": "451",
+				"colour": "Magenta",
+				"swatch": "img/swatches/cotton/colours/451 Magenta.jpg"
+			},
+			{
+				"name": "452",
+				"colour": "Bubblegum",
+				"swatch": "img/swatches/cotton/colours/452 Bubblegum.jpg"
+			},
+			{
+				"name": "453",
+				"colour": "Mushroom",
+				"swatch": "img/swatches/cotton/colours/453 Mushroom.jpg"
+			},
+			{
+				"name": "454",
+				"colour": "Deep Violet",
+				"swatch": "img/swatches/cotton/colours/454 Deep Violet.jpg"
+			},
+			{
+				"name": "455",
+				"colour": "Flamingo",
+				"swatch": "img/swatches/cotton/colours/455 Flamingo.jpg"
+			},
+			{
+				"name": "457",
+				"colour": "Lavender",
+				"swatch": "img/swatches/cotton/colours/457 Lavender.jpg"
+			},
+			{
+				"name": "458",
+				"colour": "Linen",
+				"swatch": "img/swatches/cotton/colours/458 Linen.jpg"
+			},
+			{
+				"name": "459",
+				"colour": "Orchid",
+				"swatch": "img/swatches/cotton/colours/459 Orchid.jpg"
+			},
+			{
+				"name": "460",
+				"colour": "Shell",
+				"swatch": "img/swatches/cotton/colours/460 Shell.jpg"
+			},
+			{
+				"name": "463",
+				"colour": "Blush",
+				"swatch": "img/swatches/cotton/colours/463 Blush.jpg"
+			},
+			{
+				"name": "464",
+				"colour": "Honey",
+				"swatch": "img/swatches/cotton/colours/464 Honey.jpg"
+			},
+			{
+				"name": "465",
+				"colour": "Coral",
+				"swatch": "img/swatches/cotton/colours/465 Coral.jpg"
+			},
+			{
+				"name": "466",
+				"colour": "Olive Green",
+				"swatch": "img/swatches/cotton/colours/466 Olive Green.jpg"
+			},
+			{
+				"name": "467",
+				"colour": "Brass",
+				"swatch": "img/swatches/cotton/colours/467 Brass.jpg"
+			},
+			{
+				"name": "468",
+				"colour": "Butterscotch",
+				"swatch": "img/swatches/cotton/colours/468 Butterscotch.jpg"
+			},
+			{
+				"name": "469",
+				"colour": "Apricot",
+				"swatch": "img/swatches/cotton/colours/469 Apricot.jpg"
+			},
+			{
+				"name": "470",
+				"colour": "Pineapple",
+				"swatch": "img/swatches/cotton/colours/470 Pineapple.jpg"
+			},
+			{
+				"name": "471",
+				"colour": "Teddybear Brown",
+				"swatch": "img/swatches/cotton/colours/471 Teddybear Brown.jpg"
+			},
+			{
+				"name": "472",
+				"colour": "Sage",
+				"swatch": "img/swatches/cotton/colours/472 Sage.jpg"
+			},
+			{
+				"name": "473",
+				"colour": "Caramel",
+				"swatch": "img/swatches/cotton/colours/473 Caramel.jpg"
+			},
+			{
+				"name": "474",
+				"colour": "Mahogany",
+				"swatch": "img/swatches/cotton/colours/474 Mahogany.jpg"
+			},
+			{
+				"name": "475",
+				"colour": "Stone",
+				"swatch": "img/swatches/cotton/colours/475 Stone.jpg"
+			},
+			{
+				"name": "476",
+				"colour": "Sand Brown",
+				"swatch": "img/swatches/cotton/colours/476 Sand Brown.jpg"
+			},
+			{
+				"name": "477",
+				"colour": "Fawn",
+				"swatch": "img/swatches/cotton/colours/477 Fawn.jpg"
+			},
+			{
+				"name": "478",
+				"colour": "Lilac",
+				"swatch": "img/swatches/cotton/colours/478 Lilac.jpg"
+			},
+			{
+				"name": "479",
+				"colour": "Indigo",
+				"swatch": "img/swatches/cotton/colours/479 Indigo.jpg"
+			},
+			{
+				"name": "480",
+				"colour": "Shadow",
+				"swatch": "img/swatches/cotton/colours/480 Shadow.jpg"
+			},
+			{
+				"name": "481",
+				"colour": "Raincloud Grey",
+				"swatch": "img/swatches/cotton/colours/481 Raincloud Grey.jpg"
+			},
+			{
+				"name": "482",
+				"colour": "Bramble",
+				"swatch": "img/swatches/cotton/colours/482 Bramble.jpg"
+			},
+			{
+				"name": "483",
+				"colour": "Aubergine",
+				"swatch": "img/swatches/cotton/colours/483 Aubergine.jpg"
+			}
+			
+		]
+	},
+	"coir" : {
+		"title": "coir",
+		"subtitle": "Natural Coconut Fibre Brush Logo Mat",
+		"seo": {
+			"title": "Rustic Look with Coir Logo Mats | Custom Coir Logo Mats - Specialist Logo Mats UK",
+			"menutitle": "Coir Logo Mat",
+			"description": "Add a rustic touch to your business decor with custom coir logo mats from Specialist Logo Mats UK. Shop our variety of natural coconut fibre brush logo mats. Visit our website for more info.",
+			"canonical": "coir-logo-mats",
+			"seoinclude": "coir"
+		},
+		"description": "<p>Made from 100% natural coconut fibre; our coir door mats are absorbent and hard-wearing.</p><p>Logos and graphics for this mat are created using a cut and inlay method rather than printed - this basically means the logo area is cut out and coir fibres in a different colour are fixed in.</p><p>This traditional style of mat is extremely classy and fits perfectly with rustic decor.</p>",
+		"settings": {
+			"type": "cutinlay"
+		},
+		"img": ["img/products/coir-mat.jpg",
+				"img/products/coir/coir1.jpg",
+				"img/products/coir/coir2.jpg",
+				"img/products/coir/coir3.jpg",
+				"img/products/coir/coir4.jpg",
+				"img/products/coir/coir5.jpg",
+				"img/products/coir/coir6.jpg",
+				"img/products/coir/coir7.jpg",
+				"img/products/coir/coir8.jpg",
+				"img/products/coir/coir9.jpg"],
+		"features": {
+			"area": "indoors",
+			"print": "cutinlay"
+		},
+		"bullets": [
+			{
+				"icon": "fa-leaf",
+				"point": "Natural Coconut Mat"
+			},
+			{
+				"icon": "fa-eye",
+				"point": "Free Preview Visual"
+			},
+			{
+				"icon": "fa-cut",
+				"point": "Made to Measure Sizing"
+			},
+			{
+				"icon": "fa-truck",
+				"point": "Fast Delivery"
+			}
+		],
+		"specs": [
+			{
+				"key": "Availability",
+				"value": "7-10 working day dispatch from visual approval"
+			},
+			{
+				"key": "Mat Surface",
+				"value": "Coconut Fibre"
+			},
+			{
+				"key": "Mat Backing",
+				"value": "PVC"
+			},
+			{
+				"key": "Total Height",
+				"value": "17mm"
+			},
+			{
+				"key": "Size Tolerance",
+				"value": "±3%"
+			},
+			{
+				"key": "Custom Sizes",
+				"value": "Yes"
+			},
+			{
+				"key": "Foot Traffic",
+				"value": "Industrial / Heavy Domestic"
+			},
+			{
+				"key": "Water Retention",
+				"value": "Good"
+			},
+			{
+				"key": "Dry Dirt Pick-Up",
+				"value": "Very Good"
+			},
+			{
+				"key": "Machine Washable",
+				"value": "No"
+			},
+			{
+				"key": "Tumble Dry",
+				"value": "No"
+			}
+		],
+		"sizing": [
+			"custom", "matwell"
+		],
+		"sizes": [
+		],
+		"colours": [
+			{
+				"name": "Blue",
+				"colour": "1b223c",
+				"swatch": "img/swatches/coir/blue.jpg"
+			},
+			{
+				"name": "Natural",
+				"colour": "a48267",
+				"swatch": "img/swatches/coir/natural.jpg"
+			},
+			{
+				"name": "Grey",
+				"colour": "5a5a5c",
+				"swatch": "img/swatches/coir/grey.jpg"
+			},
+			{
+				"name": "Dark Brown",
+				"colour": "3c2e2b",
+				"swatch": "img/swatches/coir/dark-brown.jpg"
+			},
+			{
+				"name": "Black",
+				"colour": "26262e",
+				"swatch": "img/swatches/coir/black.jpg"
+			},
+			{
+				"name": "Red",
+				"colour": "770e1d",
+				"swatch": "img/swatches/coir/red.jpg"
+			},
+			{
+				"name": "Green",
+				"colour": "4e6338",
+				"swatch": "img/swatches/coir/green.jpg"
+			},
+			{
+				"name": "Terracotta",
+				"colour": "9c6060",
+				"swatch": "img/swatches/coir/terracotta.jpg"
+			}
+		]
+	},
+	"brush" : {
+		"title": "brush",
+		"subtitle": "Heavy Duty Non-Shedding Coir Alternative",
+		"seo": {
+			"title": "Heavy Duty Brush Mats | Heavy Duty Logo Mats - Specialist Logo Mats UK",
+			"menutitle": "Heavy Duty Brush Mat",
+			"description": "Shop for strong and durable heavy duty brush logo mats in the UK at Specialist Logo Mats. Perfect for commercial use. Visit our website to browse our selection.",
+			"canonical": "heavy-duty-brush-logo-mats",
+			"seoinclude": "brush"
+		},
+		"description": "<p>If you need a heavy-duty alternative to a traditional coir mat our non-shedding tightly woven brush logo mats are the mat for you.</p><p>The rib construction of these mats makes them ideal for commercial settings with heavy foot traffic. Available in a range of colours - our brush logo mats are attractive and low maintenance.</p>",
+		"settings": {
+			"type": "cutinlay"
+		},
+		"img": ["img/products/brush-mat.jpg",
+				"img/products/brush/brush1.jpg",
+				"img/products/brush/brush2.jpg",
+				"img/products/brush/brush3.jpg",
+				"img/products/brush/brush4.jpg",
+				"img/products/brush/brush5.jpg",
+				"img/products/brush/brush6.jpg"],
+		"features": {
+			"area": "indoors",
+			"print": "cutinlay"
+		},
+		"bullets": [
+			{
+				"icon": "fa-boot",
+				"point": "Heavy Duty Mat"
+			},
+			{
+				"icon": "fa-eye",
+				"point": "Free Preview Visual"
+			},
+			{
+				"icon": "fa-cut",
+				"point": "Made to Measure Sizing"
+			},
+			{
+				"icon": "fa-truck",
+				"point": "Fast Delivery"
+			},
+			{
+				"icon": "fa-flag",
+				"point": "UK Made"
+			}
+		],
+		"specs": [
+		],
+		"sizing": [
+			"custom", "matwell"
+		],
+		"sizes": [
+		],
+		"colours": [
+			{
+				"name": "Black",
+				"colour": "0b0b0b",
+				"swatch": "img/swatches/brush/black.jpg"
+			},
+			{
+				"name": "Anthracite",
+				"colour": "404040",
+				"swatch": "img/swatches/brush/anthracite.jpg"
+			},
+			{
+				"name": "Green",
+				"colour": "1c7e35",
+				"swatch": "img/swatches/brush/green.jpg"
+			},
+			{
+				"name": "Natural",
+				"colour": "a98b69",
+				"swatch": "img/swatches/brush/natural.jpg"
+			},
+			{
+				"name": "Red",
+				"colour": "51181e",
+				"swatch": "img/swatches/brush/red.jpg"
+			},
+			{
+				"name": "Blue",
+				"colour": "13345f",
+				"swatch": "img/swatches/brush/blue.jpg"
+			},
+			{
+				"name": "Brown",
+				"colour": "4f4649",
+				"swatch": "img/swatches/brush/brown.jpg"
+			},
+			{
+				"name": "Grey",
+				"colour": "8f8e96",
+				"swatch": "img/swatches/brush/grey.jpg"
+			}
+		]
+	},
+	"turf" : {
+		"title": "turf",
+		"subtitle": "Outdoor Logo Mat Available in a Range of Vibrant Colours",
+		"seo": {
+			"title": "Rubber Outdoor Logo Mats | Custom Outdoor Logo Mats | Turf Logo Mats",
+			"menutitle": "Outdoor Logo Mat",
+			"description": "Specialist Logo Mats offer outdoor logo entrance mats for your business. Decor your outdoor space with our weather-resistant and colourful logo floor mats. Shop turf logo mats on our website today!",
+			"canonical": "outdoor-logo-mats"
+		},
+		"description": "<p>Colourful and weather-resistant - our Logo Turf Mats are specifically designed for outdoor usage.</p><p>Sharp, colour logos or graphics can be printed onto these mats and will resist all weather conditions and UV light from exposure to direct sunlight. They are also suitable for use over underfloor heating systems.</p>",
+		"img": ["img/products/turf-mat.jpg",
+				"img/products/turf/turf1.jpg",
+				"img/products/turf/turf2.jpg",
+				"img/products/turf/turf3.jpg",
+				"img/products/turf/turf4.jpg",
+				"img/products/turf/turf5.jpg",
+				"img/products/turf/turf6.jpg"],
+		"features": {
+			"area": "outdoors",
+			"print": "graphic"
+		},
+		"bullets": [
+			{
+				"icon": "fa-cloud-rain",
+				"point": "Specialist Outdoor Mat"
+			},
+			{
+				"icon": "fa-eye",
+				"point": "Free Preview Visual"
+			},
+			{
+				"icon": "fa-cut",
+				"point": "Made to Measure Sizing"
+			},
+			{
+				"icon": "fa-truck",
+				"point": "Fast Delivery"
+			},
+			{
+				"icon": "fa-flag",
+				"point": "UK Made"
+			}
+		],
+		"specs": [
+			{
+				"key": "Availability",
+				"value": "Made to order in 10-12 working days"
+			},
+			{
+				"key": "Mat Surface",
+				"value": "Polyamide grass effect"
+			},
+			{
+				"key": "Mat Backing",
+				"value": "100% Nitrile Rubber"
+			},
+			{
+				"key": "Backing Finish",
+				"value": "Kleeted or smooth backing"
+			},
+			{
+				"key": "Size Tolerance",
+				"value": "±2%"
+			},
+			{
+				"key": "Custom Sizes",
+				"value": "Yes"
+			},
+			{
+				"key": "Foot Traffic",
+				"value": "Medium Industrial / Light-Heavy Domestic"
+			},
+			{
+				"key": "Machine Washable",
+				"value": "No"
+			},
+			{
+				"key": "Tumble Dry",
+				"value": "No"
+			}
+		],
+		"sizing": [
+			"custom", "matwell"
+		],
+		"sizes": [
+		],
+		"colours": [
+			{
+				"name": "601",
+				"colour": "f8d930",
+				"swatch": "img/swatches/turf/601.jpg"
+			},
+			{
+				"name": "602",
+				"colour": "eab033",
+				"swatch": "img/swatches/turf/602.jpg"
+			},
+			{
+				"name": "603",
+				"colour": "ee8e44",
+				"swatch": "img/swatches/turf/603.jpg"
+			},
+			{
+				"name": "604",
+				"colour": "f05826",
+				"swatch": "img/swatches/turf/604.jpg"
+			},
+			{
+				"name": "605",
+				"colour": "c23639",
+				"swatch": "img/swatches/turf/605.jpg"
+			},
+			{
+				"name": "606",
+				"colour": "a63e35",
+				"swatch": "img/swatches/turf/606.jpg"
+			},
+			{
+				"name": "607",
+				"colour": "7d212c",
+				"swatch": "img/swatches/turf/607.jpg"
+			},
+			{
+				"name": "608",
+				"colour": "e57d9e",
+				"swatch": "img/swatches/turf/608.jpg"
+			},
+			{
+				"name": "609",
+				"colour": "764a97",
+				"swatch": "img/swatches/turf/609.jpg"
+			},
+			{
+				"name": "610",
+				"colour": "d190c8",
+				"swatch": "img/swatches/turf/610.jpg"
+			},
+			{
+				"name": "611",
+				"colour": "7658ba",
+				"swatch": "img/swatches/turf/611.jpg"
+			},
+			{
+				"name": "612",
+				"colour": "9e91d7",
+				"swatch": "img/swatches/turf/612.jpg"
+			},
+			{
+				"name": "613",
+				"colour": "1a4fc1",
+				"swatch": "img/swatches/turf/613.jpg"
+			},
+			{
+				"name": "614",
+				"colour": "84bfdf",
+				"swatch": "img/swatches/turf/614.jpg"
+			},
+			{
+				"name": "615",
+				"colour": "2e83aa",
+				"swatch": "img/swatches/turf/615.jpg"
+			},
+			{
+				"name": "616",
+				"colour": "34bad3",
+				"swatch": "img/swatches/turf/616.jpg"
+			},
+			{
+				"name": "617",
+				"colour": "2d787e",
+				"swatch": "img/swatches/turf/617.jpg"
+			},
+			{
+				"name": "618",
+				"colour": "30cdc2",
+				"swatch": "img/swatches/turf/618.jpg"
+			},
+			{
+				"name": "619",
+				"colour": "4d8771",
+				"swatch": "img/swatches/turf/619.jpg"
+			},
+			{
+				"name": "620",
+				"colour": "379d53",
+				"swatch": "img/swatches/turf/620.jpg"
+			},
+			{
+				"name": "621",
+				"colour": "4f2f34",
+				"swatch": "img/swatches/turf/621.jpg"
+			},
+			{
+				"name": "622",
+				"colour": "bea4a5",
+				"swatch": "img/swatches/turf/622.jpg"
+			},
+			{
+				"name": "623",
+				"colour": "124c62",
+				"swatch": "img/swatches/turf/623.jpg"
+			},
+			{
+				"name": "624",
+				"colour": "73a1b8",
+				"swatch": "img/swatches/turf/624.jpg"
+			},
+			{
+				"name": "625",
+				"colour": "773e2b",
+				"swatch": "img/swatches/turf/625.jpg"
+			},
+			{
+				"name": "626",
+				"colour": "d59c8b",
+				"swatch": "img/swatches/turf/626.jpg"
+			},
+			{
+				"name": "627",
+				"colour": "685a51",
+				"swatch": "img/swatches/turf/627.jpg"
+			},
+			{
+				"name": "628",
+				"colour": "c5bbb1",
+				"swatch": "img/swatches/turf/628.jpg"
+			},
+			{
+				"name": "629",
+				"colour": "c2cece",
+				"swatch": "img/swatches/turf/629.jpg"
+			},
+			{
+				"name": "630",
+				"colour": "929ba0",
+				"swatch": "img/swatches/turf/630.jpg"
+			},
+			{
+				"name": "631",
+				"colour": "5e7074",
+				"swatch": "img/swatches/turf/631.jpg"
+			},
+			{
+				"name": "632",
+				"colour": "323a3d",
+				"swatch": "img/swatches/turf/632.jpg"
+			},
+			{
+				"name": "633",
+				"colour": "e4d9c3",
+				"swatch": "img/swatches/turf/633.jpg"
+			},
+			{
+				"name": "634",
+				"colour": "c0b192",
+				"swatch": "img/swatches/turf/634.jpg"
+			},
+			{
+				"name": "635",
+				"colour": "ba563e",
+				"swatch": "img/swatches/turf/635.jpg"
+			},
+			{
+				"name": "636",
+				"colour": "153d47",
+				"swatch": "img/swatches/turf/636.jpg"
+			},
+			{
+				"name": "637",
+				"colour": "1578bc",
+				"swatch": "img/swatches/turf/637.jpg"
+			},
+			{
+				"name": "638",
+				"colour": "612932",
+				"swatch": "img/swatches/turf/638.jpg"
+			},
+			{
+				"name": "639",
+				"colour": "d53d49",
+				"swatch": "img/swatches/turf/639.jpg"
+			},
+			{
+				"name": "640",
+				"colour": "339063",
+				"swatch": "img/swatches/turf/640.jpg"
+			},
+			{
+				"name": "641",
+				"colour": "c3b063",
+				"swatch": "img/swatches/turf/641.jpg"
+			},
+			{
+				"name": "642",
+				"colour": "e1f0d3",
+				"swatch": "img/swatches/turf/642.jpg"
+			},
+			{
+				"name": "643",
+				"colour": "c1925e",
+				"swatch": "img/swatches/turf/643.jpg"
+			},
+			{
+				"name": "644",
+				"colour": "766553",
+				"swatch": "img/swatches/turf/644.jpg"
+			},
+			{
+				"name": "600",
+				"colour": "f2efe8",
+				"swatch": "img/swatches/turf/600.jpg"
+			}
+		]
+	},
+	"rubber" : {
+		"title": "Outdoor Scraper",
+		"subtitle": "Rubber Scraper Mat Suitable for Outdoor Use",
+		"seo": {
+			"title": "Custom Rubber Scraper Floor Mats | Entry Mats - Specialist Logo Mats",
+			"menutitle": "Rubber Scraper Logo Mat",
+			"description": "Specialist Logo Mats UK offers durable rubber scraper logo mats for outdoor use. Personalize your mat with your company logo. Visit our website for more information.",
+			"canonical": "rubber-scraper-logo-mats",
+			"seoinclude": "rubber"
+		},
+		"description": "<p>Made entirely from natural rubber - our outdoor scraper logo mats are extremely easy to maintain and can be digitally printed with your logo, branding or graphic in full colour.</p><p>They are the perfect way to promote your branding whilst simultaneously keeping dirt and rainwater outside where it belongs.</p>",
+		"img": ["img/products/rubber-mat.jpg",
+				"img/products/outdoor/outdoor1.jpg"],
+		"features": {
+			"area": "outdoors",
+			"print": "graphic"
+		},
+		"bullets": [
+			{
+				"icon": "fa-cloud-rain",
+				"point": "Full Waterproof Rubber Mat"
+			},
+			{
+				"icon": "fa-eye",
+				"point": "Free Preview Visual"
+			},
+			{
+				"icon": "fa-cut",
+				"point": "Made to Measure Sizing"
+			},
+			{
+				"icon": "fa-truck",
+				"point": "Fast Delivery"
+			},
+			{
+				"icon": "fa-flag",
+				"point": "UK Made"
+			}
+		],
+		"specs": [
+			{
+				"key": "Availability",
+				"value": "Usually despatched in 10-15 working days from visual approval"
+			},
+			{
+				"key": "Mat Surface",
+				"value": "Natural Rubber"
+			},
+			{
+				"key": "Total Height",
+				"value": "7mm"
+			},
+			{
+				"key": "Size Tolerance",
+				"value": "±3%"
+			},
+			{
+				"key": "Custom Sizes",
+				"value": "No"
+			},
+			{
+				"key": "Foot Traffic",
+				"value": "Medium industrial/light-heavy domestic"
+			},
+			{
+				"key": "Machine Washable",
+				"value": "No"
+			},
+			{
+				"key": "Tumble Dry",
+				"value": "No"
+			}
+		],
+		"sizing": [
+			"standard"
+		],
+		"sizes": [
+			"75 x 85cm (approx 2'5\" x 3')",
+			"85 x 150cm (approx 3' x 5')",
+			"115 x 180cm  (approx 4' x 6')"
+		],
+		"colours": [
+		]
+	},
+	"weather" : {
+		"title": "All Weather",
+		"subtitle": "Indoor or Outdoor Custom Logo Mats",
+		"seo": {
+			"title": "All-Weather Logo Mats | All Season Floor Mats For Home - Specialist Logo Mats",
+			"menutitle": "All Weather Logo Mat",
+			"description": "Our all-weather logo mats are perfect for both indoor and outdoor mats. Specialist Logo Mats offer all-season floor mats for homes and businesses. Visit our websites to get a weather logo mat.",
+			"canonical": "all-weather-logo-mats"
+		},
+		"description": "<p>Available with your logo, brand or simple graphics - our All-Weather Logo Mats are suitable for both indoor or outdoor use and are resilient enough to withstand heavy domestic, commercial or industrial use.</p><p>The low depth (12mm) of these logo mats allows them to fit into shallower mat-wells, making them extremely flexible. They can also be laid loose on the floor with an optional bevel edge.</p>",
+		"img": ["img/products/weather-mat.jpg",
+				"img/products/weather/weather1.jpg",
+				"img/products/weather/weather2.jpg",
+				"img/products/weather/weather3.jpg"],
+		"features": {
+			"area": "outdoors",
+			"print": "graphic"
+		},
+		"bullets": [
+			{
+				"icon": "fa-cloud-rain",
+				"point": "Low Maintenance Outdoor Mat"
+			},
+			{
+				"icon": "fa-eye",
+				"point": "Free Preview Visual"
+			},
+			{
+				"icon": "fa-cut",
+				"point": "Made to Measure Sizing"
+			},
+			{
+				"icon": "fa-truck",
+				"point": "Fast Delivery"
+			},
+			{
+				"icon": "fa-flag",
+				"point": "UK Made"
+			}
+		],
+		"specs": [
+			{
+				"key": "Availability",
+				"value": "Dispatched in 5-7 working days from visual approval"
+			},
+			{
+				"key": "Mat Surface",
+				"value": "100% Polypropylene Needlefelt"
+			},
+			{
+				"key": "Mat Backing",
+				"value": "OL"
+			},
+			{
+				"key": "Backing Finish",
+				"value": "Smooth"
+			},
+			{
+				"key": "Total Height",
+				"value": "12.5mm +/-10% (pile height 6mm approx)"
+			},
+			{
+				"key": "Size Tolerance",
+				"value": "±3%"
+			},
+			{
+				"key": "Custom Sizes",
+				"value": "Yes"
+			},
+			{
+				"key": "Foot Traffic",
+				"value": "Heavy Domestic / Heavy Industrial"
+			},
+			{
+				"key": "Water Retention",
+				"value": "Very Good"
+			},
+			{
+				"key": "Dry Dirt Pick-Up",
+				"value": "Very Good"
+			},
+			{
+				"key": "Machine Washable",
+				"value": "No"
+			},
+			{
+				"key": "Tumble Dry",
+				"value": "No"
+			}
+		],
+		"sizing": [
+			"standard", "custom", "matwell"
+		],
+		"sizes": [
+				"60 x 85cm (approx 2’ x 3’)", 
+				"75 x 85cm ( approx 2’6” x 3’)",
+				"75 x 115cm (approx 2'6\" x 4')",
+				"85 x 85cm (approx 3’ x 3’)",
+				"85 x 115cm (approx 3’ x 4’)",
+				"85 x 120cm (approx 3’ x 4’)",
+				"85 x 150cm (approx 3’ x 5’)",
+				"85 x 200cm (approx 3’ x 6’6”)",
+				"85 x 240cm (approx 3’ x 8’)",
+				"85 x 250cm (approx 3' x 8'3\")",
+				"85 x 300cm (approx 3’ x 10’)",
+				"85 x 400cm (approx 3’ x 13’)",
+				"85 x 500cm (approx 3’ x 16’6”)",
+				"85 x 600cm (approx 3’ x 19’6”)",
+				"115 x 115cm (approx 4’ x 4’)",
+				"115 x 150cm (approx 4’ x 5’)",
+				"115 x 180cm (approx 4’ x 6’)",
+				"115 x 200cm (approx 4’ x 6’6”)",
+				"115 x 240cm (approx 4’ x 8’)",
+				"115 x 250cm (approx 4' x 8'3\")",
+				"115 x 300cm (approx 4’ x 10’)",
+				"115 x 360cm (approx 4’ x 12’)",
+				"115 x 400cm (approx 4’ x 13’)",
+				"115 x 500cm (approx 4’ x 16’6”)",
+				"115 x 600cm (approx 4’ x 19’6”)",
+				"150 x 150cm (approx 5’ x 5’)",
+				"150 x 180cm (approx 5’ x 6’)",
+				"150 x 200cm (approx 5’ x 6’6”)",
+				"150 x 240cm (approx 5’ x 8’)",
+				"150 x 300cm (approx 5’ x 10’)",
+				"150 x 400cm (approx 5’ x 13’)",
+				"150 x 500cm (approx 5’ x 16’6”)",
+				"150 x 600cm (approx 5’ x 20’)",
+				"200 x 200cm (approx 6’ x 6’)",
+				"200 x 300cm (approx 6’ x 10’)"
+			],
+		"colours": [
+			{
+				"name": "Anthracite",
+				"colour": "0b0b09",
+				"swatch": "img/swatches/weather/Anthracite.jpg"
+			},
+			{
+				"name": "Beige",
+				"colour": "6c4a2e",
+				"swatch": "img/swatches/weather/Beige.jpg"
+			},
+			{
+				"name": "Black",
+				"colour": "0a0a08",
+				"swatch": "img/swatches/weather/Black.jpg"
+			},
+			{
+				"name": "Blue",
+				"colour": "164482",
+				"swatch": "img/swatches/weather/Blue.jpg"
+			},
+			{
+				"name": "Dark Brown",
+				"colour": "1a1917",
+				"swatch": "img/swatches/weather/Dark-Brown.jpg"
+			},
+			{
+				"name": "Green",
+				"colour": "203d1f",
+				"swatch": "img/swatches/weather/Green.jpg"
+			},
+			{
+				"name": "Grey",
+				"colour": "50514c",
+				"swatch": "img/swatches/weather/Grey.jpg"
+			},
+			{
+				"name": "Orange",
+				"colour": "cb4b0a",
+				"swatch": "img/swatches/weather/Orange.jpg"
+			},
+			{
+				"name": "Red",
+				"colour": "b6171c",
+				"swatch": "img/swatches/weather/Red.jpg"
+			},
+			{
+				"name": "Yellow",
+				"colour": "b88204",
+				"swatch": "img/swatches/weather/Yellow.jpg"
+			}
+		]
+	},
+	"loop": {
+		"title": "Outdoor Logo Loop",
+		"subtitle": "Outdoor Spaghetti PVC Vinyl Custom Logo Mats",
+		"seo": {
+			"title": "Custom Outdoor Logo Loop Mats | Loop mat with Branding - Specialist Logo Mats",
+			"menutitle": "Outdoor Logo Loop Mat",
+			"description": "Protect your floors and make a lasting impression with our outdoor logo loop mats, designed with PVC vinyl. Visit our website to buy custom mats for your business.",
+			"canonical": "outdoor-logo-loop-mats"
+		},
+		"description": "<p>Constructed from specialist spaghetti-coiled PVC vinyl our Logo Loop Mats are specifically designed to catch and drain water before it can stain and damage your flooring.</p><p>Like our other logo mats, we can superimpose your logo, branding or custom message onto the surface of this mat - providing a highly attractive and functional way to get your branding in front of your visitors.</p>",
+		"img": ["img/products/loop-mat.jpg",
+				"img/products/loop/loop1.jpg",
+				"img/products/loop/loop2.jpg",
+				"img/products/loop/loop3.jpg",
+				"img/products/loop/loop4.jpg",
+				"img/products/loop/loop5.jpg",
+				"img/products/loop/loop6.jpg"],
+		"features": {
+			"area": "outdoors",
+			"print": "cutinlay"
+		},
+		"bullets": [
+			{
+				"icon": "fa-cloud-rain",
+				"point": "Waterproof Indoor or Outdoor Mat"
+			},
+			{
+				"icon": "fa-water-lower",
+				"point": "Designed to Trap & Drain Water"
+			},
+			{
+				"icon": "fa-eye",
+				"point": "Free Preview Visual"
+			},
+			{
+				"icon": "fa-cut",
+				"point": "Made to Measure Sizing"
+			},
+			{
+				"icon": "fa-truck",
+				"point": "Fast Delivery"
+			},
+			{
+				"icon": "fa-flag",
+				"point": "UK Made"
+			}
+		],
+		"specs": [
+			{
+				"key": "Mat Surface",
+				"value": "PVC Vinyl Loop"
+			},
+			{
+				"key": "Mat Backing",
+				"value": "None"
+			},
+			{
+				"key": "Total Height",
+				"value": "16mm"
+			},
+			{
+				"key": "Size Tolerance",
+				"value": "±/-5%"
+			},
+			{
+				"key": "Custom Sizes",
+				"value": "Yes"
+			},
+			{
+				"key": "Machine Washable",
+				"value": "No"
+			},
+			{
+				"key": "Tumble Dry",
+				"value": "No"
+			}
+		],
+		"sizing": [
+			"custom", "matwell"
+		],
+		"sizes": [
+		],
+		"colours": [
+			{
+				"name": "BLACK RAL 9005",
+				"colour": "0b0803",
+				"swatch": "img/swatches/loop/9005.jpg"
+			},
+			{
+				"name": "BLUE RAL 5002",
+				"colour": "143f6c",
+				"swatch": "img/swatches/loop/5002.jpg"
+			},
+			{
+				"name": "GREEN RAL 6002",
+				"colour": "0f6d55",
+				"swatch": "img/swatches/loop/6002.jpg"
+			},
+			{
+				"name": "GREY RAL 7037",
+				"colour": "0b0b09",
+				"swatch": "img/swatches/loop/7037.jpg"
+			},
+			{
+				"name": "ORANGE RAL 2011",
+				"colour": "e7834f",
+				"swatch": "img/swatches/loop/2011.jpg"
+			},
+			{
+				"name": "RED RAL 3020",
+				"colour": "c93436",
+				"swatch": "img/swatches/loop/3020.jpg"
+			},
+			{
+				"name": "WHITE RAL 9106",
+				"colour": "f4ecdf",
+				"swatch": "img/swatches/loop/9106.jpg"
+			},
+			{
+				"name": "YELLOW RAL 1023",
+				"colour": "dcc038",
+				"swatch": "img/swatches/loop/1023.jpg"
+			}
+		]
+	},
+	"admat": {
+		"title": "advertising",
+		"subtitle": "HD Custom Printed Graphic Advertising Floor Mat",
+		"seo": {
+			"title": "Advertising Mat | Custom Advertising Floor Mats - Specialist Logo Mats",
+			"menutitle": "Custom Advertising Floor Mat",
+			"description": "AD mats from Specialist Logo Mats UK are the perfect advertising solution for your business. Advertise your brand and promotions effectively with our customised mats. Shop now!",
+			"canonical": "ad-mats"
+		},
+		"description": "<p>The print quality on our high-resolution advertising floor mats is so sharp it's like the image is printed on paper. These slimline, slip-resistant mats are low-profile and perfect for showcasing a brand, presenting information or utilising your floor space for advertising.</p><h3>Custom Sizes</h3><p>Custom sizes are available on request - up to 150x200cm maximum measurements.</p>",
+		"img": ["img/products/ad/posmat.jpg",
+				"img/products/ad/posmat1.jpg",
+				"img/products/ad/posmat2.jpg",
+				"img/products/ad/posmat3.jpg",
+				"img/products/ad/posmat4.jpg",
+				"img/products/ad/posmat5.jpg"],
+		"features": {
+			"area": "indoors",
+			"print": "photo"
+		},
+		"bullets": [
+			{
+				"icon": "fa-camera-polaroid",
+				"point": "Photorealistic Sublimation Print"
+			},
+			{
+				"icon": "fa-eye",
+				"point": "Free Preview Visual"
+			},
+			{
+				"icon": "fa-tire",
+				"point": "High-Quality Rubber Backing"
+			},
+			{
+				"icon": "fa-washer",
+				"point": "Machine Washable (limited to 10 washes)"
+			},
+			{
+				"icon": "fa-truck",
+				"point": "Fast Delivery"
+			},
+			{
+				"icon": "fa-flag",
+				"point": "EU Made"
+			}
+		],
+		"specs": [
+			{
+				"key": "Availability",
+				"value": "7-10 working days of visual approval"
+			},
+			{
+				"key": "Mat Surface",
+				"value": "Non-Woven Polyester"
+			},
+			{
+				"key": "Mat Backing",
+				"value": "Nitrile Rubber"
+			},
+			{
+				"key": "Total Height",
+				"value": "0.90mm rubber - approx. 1.70mm / 1.35mm rubber - approx. 1.97mm"
+			},
+			{
+				"key": "Size Tolerance",
+				"value": "±2%"
+			},
+			{
+				"key": "Custom Sizes",
+				"value": "Special sizes available on request - up to 150x200cm"
+			},
+			{
+				"key": "Machine Washable",
+				"value": "Yes"
+			}
+		],
+		"sizing": [
+			"standard"
+		],
+		"sizes": [
+				"40x60cm",
+				"50x75cm",
+				"60x85cm",
+				"85x120cm",
+				"85x150cm",
+				"85x200cm",
+				"115x180cm",
+				"115x200cm",
+				"150x200cm"
+			],
+		"colours": [
+			
+		]
+	},
+	"barmat": {
+		"title": "bar",
+		"subtitle": "HD Custom Printed Bar Runner Mat",
+		"seo": {
+			"title": "Custom Bar Floor Mat With Logo | Bar Runner Mat | Bar Mats",
+			"menutitle": "Custom Bar Runner Mat",
+			"description": "Nothing like a good custom bar floor mat to brand your bar or brewery. Choose from a range of designs and colours. Visit our website to buy bar mats today!",
+			"canonical": "bar-mats"
+		},
+		"description": "<div class=\"warning\"><i class=\"fal fa-box-open\"></i> Minimum order 50 mats for this product</div><p>These custom printed 300dpi high-resolution bar runner mats are perfect to showcase a bar, pub or brewery's branding, highlight specific products and present menus or other information.</p><p>They come with a slip-resistant rubber backing and can be easily machine washed to keep them looking sharp.</p>",
+		"img": ["img/products/bar/barmat.jpg",
+				"img/products/bar/barmat1.jpg",
+				"img/products/bar/barmat2.jpg",
+				"img/products/bar/barmat3.jpg",
+				"img/products/bar/barmat4.jpg"],
+		"features": {
+			"area": "indoors",
+			"print": "photo",
+			"min": 50
+		},
+		"bullets": [
+			{
+				"icon": "fa-eye",
+				"point": "Free Preview Visual"
+			},
+			{
+				"icon": "fa-cut",
+				"point": "Made to Measure Sizing"
+			},
+			{
+				"icon": "fa-tire",
+				"point": "High-Quality Rubber Backing"
+			},
+			{
+				"icon": "fa-washer",
+				"point": "Machine Washable"
+			},
+			{
+				"icon": "fa-truck",
+				"point": "Fast Delivery"
+			},
+			{
+				"icon": "fa-flag",
+				"point": "EU Made"
+			}
+		],
+		"specs": [
+			{
+				"key": "Minimum Order Quantity",
+				"value": "50 Mats"
+			},
+			{
+				"key": "Availability",
+				"value": "7-10 working days of visual approval"
+			},
+			{
+				"key": "Mat Surface",
+				"value": "Heavy duty high twist nylon"
+			},
+			{
+				"key": "Mat Backing",
+				"value": "Nitrile Rubber"
+			},
+			{
+				"key": "Total Height",
+				"value": "8mm approx"
+			},
+			{
+				"key": "Size Tolerance",
+				"value": "±2%"
+			},
+			{
+				"key": "Custom Sizes",
+				"value": "Yes"
+			},
+			{
+				"key": "Machine Washable",
+				"value": "Yes"
+			}
+		],
+		"sizing": [
+			"standard"
+		],
+		"sizes": [
+				"23x43cm", 
+				"24x89cm",  
+				"19x60cm"
+			],
+		"colours": [
+			
+		]
+	}
+}

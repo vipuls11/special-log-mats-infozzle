@@ -1,0 +1,246 @@
+.hero-image {
+    background-image: url("https://specialistlogomats.co.uk/img/logo-mats-hero.jpg");
+    background-color: #cccccc;
+    min-height: 80vh;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    animation-name: i;
+    animation-duration: 100s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    color: #fff;
+    position: relative;
+  }
+ @keyframes i {
+    
+  0% {
+    background-position-x: 0;
+}
+100% {
+    background-position-x: -2000px;
+}
+}
+
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+ 
+
+  .hero-text h1{
+    font-size:4rem;
+    font-family: "sans-serif";
+    font-weight: bold;
+  unicode-bidi: isolate;
+  }
+
+  .hero-text p{
+    font-size: 20px;
+    margin: 20px 0px;
+  }
+
+  .hero-text .button{
+    display: block;
+    padding: 16px 36px;
+    margin: 0 auto;
+    font-size: 20px;
+    max-width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #EF4736;
+    font-weight:bolder;
+    border:none;
+  }
+  /* ...................................Grid-Section......................................... */
+  .spreader{
+    padding: 48px 32px;
+  }
+
+  .grid_container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+  }
+
+  .threebox{
+    box-sizing: content-box;
+    text-align: center;
+    background-color: #fff;
+    padding: 32px;
+    max-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    min-height: 250px;
+    box-shadow: 0px -1px 6px rgba(0, 0, 0, .25);
+  }
+
+  .threebox p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+  }
+  .threebox strong{
+    display: block;
+    font-size: 19.2px;
+    font-weight: 700;
+    letter-spacing: 3.2px;
+    margin: 16px 0;
+    text-transform: uppercase;
+  }
+  .threebox strong:after {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 1px;
+    margin: 16px auto;
+    border-bottom: 2px solid #ef4736;
+}
+
+  .icon i{
+    font-size: 40px;
+  }
+  /* ................. */
+
+  .spreader-header{
+    text-align: center;
+  }
+
+  .spreader-header h2{
+    text-align: center;
+    font-size: 48px;
+    margin: 0;
+  }
+
+  .spreader-header p{
+    text-align: center;
+    font-size: 24px;
+    line-height: 32px;
+    width: 80%;
+    margin: 32px auto;
+}
+  .spreader_footer{
+    padding-top: 44.8px;
+    text-align: center;
+  }
+
+  .Get_Started{
+    letter-spacing: 1.6px;
+    padding: 16px 32px;
+    margin: 0 auto;
+    max-width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    border:#ef4736;
+    background-color: #ef4736;
+}
+  .Get_Started:hover{
+    background-color: #fff;
+    color: #ef4736;
+    border: 1px solid #ef4736;
+    transition: all .2s ease-in;
+    max-width: 170px;
+  }
+
+  /* ...................................Select Mat Type.......................................... */
+
+  .precentage_bar{
+    border: 1px solid #ddd;
+    min-height: 40px;
+    border-radius:80px
+  }
+
+  .percentage_bar_value{
+    background-color: #f2f4f7;
+    margin: 5px;
+    min-height: 40px;
+    border-radius: 80px;
+    text-align: center;
+  }
+
+  .percentage_bar_value p{
+    padding-top: 8px;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+
+  .Select_Mat{
+    padding: 16px;
+  }
+
+  .Select_Mat h2{
+    color: #ef4736;
+    font-size: 40px;
+    margin-bottom: 16px;
+  }
+
+  .Select_Mat p{
+    margin:16px 0px;
+    font-size: 20px;
+  }
+
+  .option_mat{
+    flex: 0 0 28%;
+  }
+  .button-container {
+    text-align: center;
+    margin: 10px 0px;
+  }
+   .btn1{
+    color: #ef4736;
+    display: inline-block;
+    width: auto;
+    margin: .5rem auto;
+    border: 1.5px solid #ef4736;
+    font-weight: 500;
+    padding: .5rem 1rem;
+    border-radius: 2rem;
+    background-color:transparent;
+   }
+
+   .btn2{
+
+    border: 0px;
+    font-weight: 500;
+    background: #ef4736 ;
+    color: #fff ;
+    padding: .5rem 40px;
+    border-radius: 32px;
+   }
+
+   .btn_next1{
+    background-color: #ef4736;
+    padding: 1rem 2rem;
+    margin: 1rem 0;
+    border: none;
+    box-shadow: none;
+    color: #fff;
+    font-size: 1.2rem;
+   }
+    
+   .spreader_large{
+    padding: 5rem 32px;
+   }
+
+   .spreader_card{
+    background-color: #f2f4f7;
+    padding: 48px 32px;
+    text-align: center;
+   }
+
+   .spreader_card p{
+    margin: 16px auto;
+    font-size: 20px;
+   }
+
+   .spreader_card h2{
+    text-align: center;
+    font-size: 48px;
+    margin: 0;
+   }
+  

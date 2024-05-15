@@ -6,9 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- font-icon -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-     <!-- font-icon -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=sans-serif">
+    <!-- font-icon -->
      <!-- .....CSS folder...... -->
     <link rel="stylesheet" type="text/css" href="css/header.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
     <!-- .....CSS folder...... -->
 
     <!-- ........fav-icon.......... -->
@@ -64,7 +66,7 @@
                                 </div>
                             </div>
                        
-                        <a href="" style="background-color: red;  padding:0 40px; text-decoration: none; color: #fff;
+                        <a href="" style="background-color: #EF4736;  padding:0 40px; text-decoration: none; color: #fff;
         font-weight: 600;">Get Started</a>
                     </div>
                     <span class="humburger" > <i class="fa-solid fa-bars" onclick="openNav()"></i></span>
