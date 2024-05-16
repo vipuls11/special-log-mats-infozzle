@@ -1,0 +1,20 @@
+{
+
+"customizations": {
+    
+    "vscode": {
+      "extensions": [
+        "ikappas.composer"
+      ]
+    }
+  },
+
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+
+  
+"postCreateCommand": "sudo chmod a+x \"$(pwd)\" && sudo rm -rf /var/www/html && sudo ln -s \"$(pwd)\" /var/www/html; if [ -f composer.json ];then composer install;fi"
+
+}
+  
