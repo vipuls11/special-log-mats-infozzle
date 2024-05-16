@@ -16,6 +16,13 @@
     <!-- ........fav-icon.......... -->
     <link rel="icon" type="image/png" href="image/img/favicon.png">
     <!-- ........fav-icon.......... -->
+
+    <!-- Remember to include jQuery :) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
     <title>Specialist logo Mats</title>
 </head>
 
@@ -73,6 +80,8 @@
                 </div>
             </div>
     </nav>
+
+    <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
 
     <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>

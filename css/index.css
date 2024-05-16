@@ -189,7 +189,8 @@
   }
   .button-container {
     text-align: center;
-    margin: 10px 0px;
+    margin-top: 10px;
+    margin-bottom: 30px;
   }
    .btn1{
     color: #ef4736;
@@ -226,21 +227,86 @@
    .spreader_large{
     padding: 5rem 32px;
    }
-
-   .spreader_card{
+   /* ......................productdata................. */
+   .productdata{
+    display: flex;  
+    justify-content: space-evenly;
+    flex-wrap: wrap; 
+    gap:30px;
+   }
+   .option_mat{
+    border:1px solid black; 
+    padding:0px 20px;
+    position: relative;
+   }
+   .mat_circle{
+    position: absolute;
+    bottom: -25px;
+    /* left: 170px; */
+    left: 43%;
+    right: -50%;
+    width: 50px ;
+    height: 50px ;
+    border-radius: 50%;
+    border:1px solid black;
+    background-color: #fff;
+    
+   }
+   /* ......................productdata................. */
+ /* ......................Quality_card.......... */
+   .Quality-card{
     background-color: #f2f4f7;
     padding: 48px 32px;
-    text-align: center;
    }
 
-   .spreader_card p{
+   .Quality-card p{
     margin: 16px auto;
-    font-size: 20px;
+    font-size: 20px; 
    }
 
-   .spreader_card h2{
-    text-align: center;
+   .Quality-card h2{
     font-size: 48px;
     margin: 0;
    }
-  
+ 
+   .Card_Content{
+    text-align: center;
+   }
+
+  .cards_section{
+    width: 90%;
+    max-width: 950px;
+    margin: auto;
+    text-align: left;;
+  }
+
+  .card-item-one{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    place-items: center;
+    gap: 20px;
+    padding: 20px 0px;
+  }
+
+  .Grow_Business{
+    font-size: 32px;
+  }
+  /* ...............jQuery Modal.................. */
+  .modal{
+    max-width: 1200px !important;
+  }
+
+  .modal_flex{
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: row;
+    gap: 30px;
+  }
+
+  .modal_Content{
+    width:60%;
+  }
+
+  .modal_img{
+    width:40%;
+  }

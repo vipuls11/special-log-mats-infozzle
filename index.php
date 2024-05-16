@@ -85,33 +85,59 @@ $productData = json_decode($json, true);
                     // echo "<pre>";
                     // print_r($productData);
                     // echo "</pre>";
-                    echo '<div style="display:flex; flex-flow: row wrap;">';
-                    echo '<div style="display: flex;
-                       flex-wrap: wrap; gap:30px;">';
+                    echo '<div style="">';
+                    echo '<div class="productdata">';
+                    $id = 0;
                     foreach ($productData as $key => $x) {
-                        echo'<div class="option_mat" style="border:1px solid black; padding:0px 20px;">';
-                        echo '<img src="https://www.logo-mats.co.uk/'.$x['img'][0].'" alt="" height="300">';
+                        echo'<div class="option_mat" >';
+                        echo '<img src="https://www.logo-mats.co.uk/'.$x['img'][0].'" alt="" height="300" width="100%">';
                         echo '<p>'.$x['title'].'</p>';
                         echo '<p>'.$x['subtitle'].'</p>';
                         echo '<p>'.$x['subtitle'].'</p>';
                         echo '<p>'.$x['subtitle'].'</p>';
                         echo '<div class="button-container">';
-                        echo '<button class="btn1">';
+                        echo '<a href="#ex'.$id.'" rel="modal:open"><button class="btn1" rel="modal:open">';
                         echo 'More Details >';
-                        echo '</button>';
+                        echo '</button> </a>';
                         echo '<br>';
+                        // echo ' <p><a href="#ex1" rel="modal:open">Open Modal</a></p>';
                         echo '<button class="btn2">';
                         echo 'Select';
                         echo '</button>';
                         echo '</div>';
-                       
+                        echo '<div class="mat_circle"></div>';
                         echo'</div>'; 
+
+                     echo'   <div id="ex'.$id.'" class="modal" >
+                     <div class="modal_flex">
+                     <div class="modal_Content">
+                     <p>'.$x['title'].'</p>
+                     <p>'.$x['subtitle'].'</p>
+                     <p>'.$x['subtitle'].'</p>
+                     </div>
+                     <div class="modal_img">
+                     <img src="https://www.logo-mats.co.uk/'.$x['img'][0].'" alt="" height="300" width="100%">;
+                     </div>
+                    </div>
+                        <p>Thanks for clicking. That felt good.</p>
+                       
+                        
+                        <a href="#" rel="modal:close">Close</a>
+                      </div>';
+                      $id++;
                      }
                      echo '</div>';
                      echo '</div>';
                      
                 ?>
+      
             </div>
+
+            <!-- <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
+            <div id="ex1" class="modal">
+  <p>Thanks for clicking. That felt good.</p>
+  <a href="#" rel="modal:close">Close</a> -->
+</div>
            
         </div>
         <div style="text-align: center;">
@@ -122,13 +148,62 @@ $productData = json_decode($json, true);
     </div>
        <!-- ...................................Select Mat Type.......................................... -->
     <!-- ...................................Top Quality Logo Mats.......................................... -->
-<div class="spreader_card">
-    <div>
+<div class="Quality-card">
+    <div class="Card_Content">
         <h2>Top Quality Logo Mats</h2>
         <p>Our mats come in a wide range of materials and finishes to suit your needs.</p>
     </div>
+    <div class="cards_section">
+        <div class="card-item-one">
+        <div style="place-self: end;">
+            <img src="image/card-image-1.png" alt="">
+        </div>
+        <div class="Grow_Business">
+            <h3>Grow your business from the ground up.</h3>
+            <p>Our custom logo mats are perfect to build up your brand from the moment someone walks through your door.</p>
+        </div>
+        </div>
+        <div class="card-item-one">
+        <div class="Grow_Business">
+            <h3>Show your support with our logo mats.</h3>
+            <p>Gain momentum for your business with our amazing custom logo mats.Generate fans for your business with our custom logo mats at sporting events</p>
+        </div>
+        <div style="place-self: end;">
+            <img src="image/card-image-2.png" alt="">
+        </div>
+        </div>
+        <div class="card-item-one">
+        <div style="place-self: end;">
+            <img src="image/card-image-3.png" alt="">
+        </div>
+        <div class="Grow_Business">
+            <h3>Grow your business from the ground up.</h3>
+            <p>Our custom logo mats are perfect to build up your brand from the moment someone walks through your door.</p>
+        </div>
+        </div>
+    </div>
 </div>
  <!-- ...................................Top Quality Logo Mats.......................................... -->
+ <button id="showData">Show Data</button>
+<div id="dataContainer"></div>
 </section>
 
+<script>
+    $(document).ready(function() {
+  $('#showData').on('click', function() {
+    $.ajax({
+      type: 'GET',
+      url: 'products.json', // replace with your JSON file URL
+      dataType: 'json',
+      success: function(data) {
+        var html = '';
+        $.each(data, function(index, item) {
+          html += '<p>' + item.name + ': '+item.img + '</p>';
+        });
+        $('#dataContainer').html(html);
+      }
+    });
+  });
+});
+</script>
 <?php include "footer.php" ?>
