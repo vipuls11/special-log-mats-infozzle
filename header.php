@@ -20,6 +20,10 @@
     <!-- Remember to include jQuery :) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
+<script src= 
+        "https://code.jquery.com/jquery-3.5.1.min.js"> 
+    </script> 
+
 <!-- jQuery Modal -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
@@ -81,7 +85,7 @@
             </div>
     </nav>
 
-    <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
+    
 
     <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>

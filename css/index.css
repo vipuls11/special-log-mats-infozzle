@@ -184,9 +184,9 @@
     font-size: 20px;
   }
 
-  .option_mat{
+  /* .option_mat{
     flex: 0 0 28%;
-  }
+  } */
   .button-container {
     text-align: center;
     margin-top: 10px;
@@ -291,6 +291,10 @@
   .Grow_Business{
     font-size: 32px;
   }
+
+  .img_cards_business{
+    place-self: end;
+  }
   /* ...............jQuery Modal.................. */
   .modal{
     max-width: 1200px !important;
@@ -310,3 +314,61 @@
   .modal_img{
     width:40%;
   }
+  
+  /* ...........................option_mat div...... */
+
+  /* .modal_Content .img{
+    height:100%;
+     width:100%;
+  } */
+
+  .modal_Content .title{
+    font-size:48px;
+  }
+   
+  .modal_Content .subtitle{
+    font-size:24px;
+    font-weight: 500;
+  }
+
+     /* ...dropdown button.. */
+
+ /* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
+  .grid_container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.card-item-one {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+}
+.img_cards_business{
+  place-self: center;
+}
+  
+  }
+  
+  /* Media Query for Tablets Ipads portrait mode */
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .grid_container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+  }   
+  .card-item-one {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);  
+}  
+
+.img_cards_business{
+  place-self: center;
+}
+  }
+  
+  /* Media Query for Laptops and Desktops */
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+  
+  }
+  
