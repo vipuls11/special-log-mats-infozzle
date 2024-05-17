@@ -1,0 +1,165 @@
+*{
+    padding:0px;
+    margin:0px;
+    font-family: sans-serif;
+    /* font-family: sans-serif; */
+    /* -webkit-font-smoothing: antialiased; */
+}
+
+
+.small_navbar{
+    background-color: black;
+    padding: 10px 0px;
+}
+.small_navbar_content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+}
+.small_navbar_content strong{
+font-weight: bolder;
+font-size: 18px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    font-family: Raleway, sans-serif;
+    align-items: center;
+    line-height: 80px;
+    font-size: 20px;
+    padding: 0px 20px;
+    background-color: #ffff;
+}
+.nav_submenu{
+    display: block;
+}
+
+.humburger{
+    display: none;
+}
+
+.submenu{
+    display: flex;
+    list-style: none;
+    align-items: center;  
+    gap:50px;
+}
+
+.submenu a{
+    color: #181818;
+}
+ /* ...dropdown button.. */
+ .dropbtn {
+    color: black;
+    line-height: 80px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    padding: 0px 14px;
+    background-color: transparent;
+    font-family: Raleway, sans-serif;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ffff;
+    min-width: 800px;
+    right:0px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown_grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+  }
+
+  .dropdown_grid ul{
+    list-style: none;
+  }
+  
+
+  
+  .show {display: block;}
+
+   /* ...dropdown button.. */
+
+ /* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
+    .submenu {
+        display: none;
+    }
+ .humburger{
+        display: block;
+        font-size: 28px;
+    }
+    
+    }
+    
+    /* Media Query for Tablets Ipads portrait mode */
+    @media (min-width: 768px) and (max-width: 1024px) {
+        .submenu{
+            display: none;
+        }
+       .humburger{
+            display: block;
+            font-size: 28px;
+        }        
+    }
+    
+    /* Media Query for Laptops and Desktops */
+    @media (min-width: 1025px) and (max-width: 1280px) {
+      
+    
+    }
+    
+
+    /* .................................sidebar Drawer.................. */
+    .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+      }
+      
+      .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+      }
+      
+      .sidenav a:hover {
+        color: #f1f1f1;
+      }
+      
+      .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+      }
+      
+      @media screen and (max-height: 450px) {
+        .sidenav {padding-top: 15px;}
+        .sidenav a {font-size: 18px;}
+      }
